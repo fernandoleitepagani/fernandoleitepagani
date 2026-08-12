@@ -37,35 +37,41 @@ Gosto de entender como as coisas funcionam por "baixo dos panos", usando essa co
 - Homelabbing
 - Automação e IoT
 
----
-
-### Projetos em destaque
-
-Alguns projetos interessantes que realizei até agora!
-
-| Projeto | Descrição |
-|---|---|
-| [DotFiles](https://github.com/fernandoleitepagani/DotFiles) | Minhas configurações de terminal e Neovim |
-| [NVIM_DOTS](https://github.com/fernandoleitepagani/NVIM_DOTS) | Configuração pessoal do Neovim, baseada no kickstart.nvim |
-| [Competitive-Programming](https://github.com/fernandoleitepagani/Competitive-Programming) | Soluções de problemas de programação competitiva |
-| [PUC_MINAS](https://github.com/fernandoleitepagani/PUC_MINAS) | Trabalhos, projetos e iniciações científicas da faculdade |
-
----
+---------
 ### Contato
 <table align="center">
   <tr>
     <!-- Professional -->
     <td align="center">
+      <a href="YOUR WEBSITE" target="_blank">
+        <img width="32" height="32" src="./assets/web-svgrepo-com.svg"/>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://www.linkedin.com/in/fernandoleitepagani/" target="_blank">
-        <img width="32" height="32" src="https://cdn.simpleicons.org/linkedin/0A66C2"/>
+        <img width="32" height="32" src="./assets/github-color-svgrepo-com.svg"/>
+      </a>
+     <td align="center">
+      <a href="https://www.github.com/fernandoleitepagani/" target="_blank">
+        <img width="32" height="32" src="./assets/linkedin-svgrepo-com.svg"/>
+      </a>  
+    </td>
+    2<td align="center">
+      <a href="https://lattes.cnpq.br/6096024024879687" target="_blank">
+        <img width="32" height="32" src="./assets/lattes-img.png"/>
       </a>
     </td>
     <td align="center">
       <a href="mailto:fernando.leite@sga.pucminas.br" target="_blank">
-        <img width="32" height="32" src="https://cdn.simpleicons.org/gmail/EA4335"/>
+        <img width="32" height="32" src="./assets/gmail-svgrepo-com.svg"/>
       </a>
     </td>
     <!-- Social -->
+    <td align="center">
+      <a href="wa.me/553198284088" target="_blank">
+        <img width="32" height="32" src="./assets/whatsapp-svgrepo-com.svg"/>
+      </a>  
+    </td>
     <td align="center">
       <a href="mailto:fernando.leitepagani@protonmail.com" target="_blank">
         <img width="32" height="32" src="https://cdn.simpleicons.org/protonmail/6D4AFF"/>
@@ -73,7 +79,7 @@ Alguns projetos interessantes que realizei até agora!
     </td>
     <td align="center">
       <a href="https://www.instagram.com/fernandoleitepagani/" target="_blank">
-        <img width="32" height="32" src="https://cdn.simpleicons.org/instagram/FF0069"/>
+        <img width="32" height="32" src="./assets/instagram-color-svgrepo-com.svg"/>
       </a>
     </td>
     <td align="center">
