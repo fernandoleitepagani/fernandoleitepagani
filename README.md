@@ -35,6 +35,7 @@ Gosto de entender como as coisas funcionam por "baixo dos panos", usando essa co
 - 🧩 Programação competitiva
 - 🖥️ IA/ML
 - Homelabbing
+- Selfhosting
 - Automação e IoT
 
 ---
@@ -96,7 +97,7 @@ Gosto de entender como as coisas funcionam por "baixo dos panos", usando essa co
 
 ### Tecnologias e ferramentas
 
-<table align="center"> <tr> <td align="center"><a href="https://getfedora.org/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/fedora/51A2DA"/></a></td> <td align="center"><a href="https://archlinux.org/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/archlinux/1793D1"/></a></td> <td align="center"><a href="https://www.debian.org/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/debian/A81D33"/></a></td> <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/gnubash/4EAA25"/></a></td> <td align="center"><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/git/F05032"/></a></td> <td align="center"><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/docker/2496ED"/></a></td> <td align="center"><a href="https://neovim.io/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/neovim/57A143"/></a></td> </tr> <tr> <td align="center"><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/c/A8B9CC"/></a></td> <td align="center"><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/cplusplus/00599C"/></a></td> <td align="center"><a href="https://www.java.com/" target="_blank"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a></td> <td align="center"><a href="https://jellyfin.org/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/jellyfin/00A4DC"/></a></td> <td align="center"><a href="https://syncthing.net/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/syncthing/0891D1"/></a></td> <td align="center"><a href="https://tailscale.com/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/tailscale/ffffff"/></a></td> </tr> </table>
+<table align="center"> <tr> <td align="center"><a href="https://getfedora.org/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/fedora/51A2DA"/></a></td> <td align="center"><a href="https://archlinux.org/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/archlinux/1793D1"/></a></td> <td align="center"><a href="https://www.debian.org/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/debian/A81D33"/></a></td> <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/gnubash/4EAA25"/></a></td> <td align="center"><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/git/F05032"/></a></td> <td align="center"><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/docker/2496ED"/></a></td> <td align="center"><a href="https://neovim.io/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/neovim/57A143"/></a></td> </tr> <tr> <td align="center"><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/c/A8B9CC"/></a></td> <td align="center"><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/cplusplus/00599C"/></a></td> <td align="center"><a href="https://www.java.com/" target="_blank"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a></td> <td align="center"><a href="https://jellyfin.org/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/jellyfin/00A4DC"/></a></td> <td align="center"><a href="https://syncthing.net/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/syncthing/0891D1"/></a></td> <td align="center"><a href="https://tailscale.com/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/tailscale/ffffff"/></a></td></tr> </table>
 
 
 <div>
@@ -128,10 +129,15 @@ Gosto de entender como as coisas funcionam por "baixo dos panos", usando essa co
     height="180"
   />
 </p>
+
 ---
-
-### Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernandoleitepagani)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fernandoleitepagani/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando.leitepagani@protonmail.com)
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=fernandoleitepagani&style=for-the-badge"/>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/fernandoleitepagani/fernandoleitepagani?style=for-the-badge&logo=files"/>
+<img alt="GitHub license" src="https://img.shields.io/github/license/fernandoleitepagani/fernandoleitepagani?style=for-the-badge&color=007ec6&logo=opensourceinitiative"/>
+<br />
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/fernandoleitepagani/fernandoleitepagani?style=for-the-badge&color=007ec6&logo=gitkraken"/>
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fernandoleitepagani/fernandoleitepagani?style=for-the-badge&logo=clockify"/>
+<br />
+<img alt="Followers" src="https://img.shields.io/github/followers/fernandoleitepagani?style=social"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/fernandoleitepagani?style=social"/>
+</div>
