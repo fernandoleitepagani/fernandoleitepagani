@@ -82,7 +82,7 @@ Alguns projetos interessantes que realizei até agora!
     height="180"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=fernandoleitepagani&layout=compact&title_color=f78166&text_color=c9d1d9&icon_color=f78166&bg_color=0d1117&border_color=30363d"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=fernandoleitepagani&title_color=f78166&text_color=c9d1d9&icon_color=f78166&bg_color=0d1117&border_color=30363d"
     height="180"
   />
 </p>
