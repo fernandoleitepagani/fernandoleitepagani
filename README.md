@@ -30,13 +30,14 @@ Gosto de entender como as coisas funcionam por "baixo dos panos", usando essa co
 
 ### Meus Interesses Pessoais
 
-- 🐧 Desktop e servidores linux
-- ⚙️ Redes e Infra
-- 🧩 Programação competitiva
-- 🖥️ IA/ML
-- Homelabbing
-- Selfhosting
-- Automação e IoT
+- 🐧 Uso Desktop e servidores linux diariamente
+- 🌐 Interesse por Redes, Infra e Cybersegurança
+- 🧑‍💻 Programação competitiva
+- 🤖 Interessado por IA/ML e Ciência de Dados
+- 🖥️ Hobista de Homelabbing e Selfhosting
+- </> Entusiasta de C, Zig e Go
+- 💻 Gosto de desenvolver apps, TUIs e scripts para _use cases_ próprios
+- 🎮 Adoro jogar jogos de estratégia, geopolítica e que envolvem administração, como ROME: Total War, Age of Empires, Victoria 2-3 e EUIV
 
 ---
 
