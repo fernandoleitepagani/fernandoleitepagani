@@ -76,6 +76,17 @@ Alguns projetos interessantes que realizei até agora!
   
 
 ---
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=fernandoleitepagani&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&border_color=30363d"
+    height="180"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=fernandoleitepagani&layout=compact&title_color=f78166&text_color=c9d1d9&icon_color=f78166&bg_color=0d1117&border_color=30363d"
+    height="180"
+  />
+</p>
+---
 
 ### Contato
 
