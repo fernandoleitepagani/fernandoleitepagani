@@ -37,8 +37,10 @@ Gosto de entender como as coisas funcionam por "baixo dos panos", usando essa co
 - Homelabbing
 - Automação e IoT
 
----------
+---
+
 ### Contato
+
 <table align="center">
   <tr>
     <!-- Professional -->
@@ -56,7 +58,7 @@ Gosto de entender como as coisas funcionam por "baixo dos panos", usando essa co
         <img width="32" height="32" src="./assets/linkedin-svgrepo-com.svg"/>
       </a>  
     </td>
-    2<td align="center">
+    <td align="center">
       <a href="https://lattes.cnpq.br/6096024024879687" target="_blank">
         <img width="32" height="32" src="./assets/lattes-img.png"/>
       </a>
