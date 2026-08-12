@@ -51,6 +51,40 @@ Alguns projetos interessantes que realizei até agora!
 | [PUC_MINAS](https://github.com/fernandoleitepagani/PUC_MINAS) | Trabalhos, projetos e iniciações científicas da faculdade |
 
 ---
+### Contato
+<table align="center">
+  <tr>
+    <!-- Professional -->
+    <td align="center">
+      <a href="https://www.linkedin.com/in/fernandoleitepagani/" target="_blank">
+        <img width="32" height="32" src="https://cdn.simpleicons.org/linkedin/0A66C2"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:fernando.leite@sga.pucminas.br" target="_blank">
+        <img width="32" height="32" src="https://cdn.simpleicons.org/gmail/EA4335"/>
+      </a>
+    </td>
+    <!-- Social -->
+    <td align="center">
+      <a href="mailto:fernando.leitepagani@protonmail.com" target="_blank">
+        <img width="32" height="32" src="https://cdn.simpleicons.org/protonmail/6D4AFF"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/fernandoleitepagani/" target="_blank">
+        <img width="32" height="32" src="https://cdn.simpleicons.org/instagram/FF0069"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="YOUR_DISCORD_URL" target="_blank">
+        <img width="32" height="32" src="https://cdn.simpleicons.org/discord/5865F2"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ### Tecnologias e ferramentas
 
