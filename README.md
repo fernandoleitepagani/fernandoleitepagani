@@ -47,7 +47,7 @@ Gosto de entender como as coisas funcionam por "baixo dos panos", usando essa co
   <tr>
     <!-- Professional -->
     <td align="center">
-      <a href="YOUR WEBSITE" target="_blank">
+      <a href="https://fernandoleitepagani.github.io/My_Portfolio_Website_/" target="_blank">
         <img width="32" height="32" src="./assets/web-svgrepo-com.svg"/>
       </a>
     </td>
