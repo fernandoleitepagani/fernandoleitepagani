@@ -10,14 +10,10 @@
 ```                                        
 
 </div>
-<div align="center">
-Olá, eu sou o Fernando 🧑‍💻
-
-Fernando Leite Pagani — Estudante de Ciência da Computação
-
+<div>
+  <h2>Olá, eu sou o Fernando 🧑‍💻</h2>
 </div>
 
----
 
 ### Sobre mim
 
